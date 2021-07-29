@@ -4,7 +4,7 @@ this app is developed with python where we can manage employees so we can do man
 employee's data and other options.
 
 
-prerequisite 
+# prerequisite 
 
 install sqlite3 module,<br />
 install db browser for sqlite
